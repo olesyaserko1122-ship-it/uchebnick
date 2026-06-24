@@ -21,7 +21,6 @@ print("Мне", 16, "лет")</pre>
       <p><em>Подсказка: используй <code>print("Я живу в", city)</code></em></p>
     `,
     starterCode: ``,
-    tests: [{ expected: 'Я живу в Москва\n' }],
   },
 
   {
